@@ -1,0 +1,10 @@
+D:\[.net] projects\___Final\Lab task\NewsPortal\DataAccess\bin\Debug\DataAccess.dll.config
+D:\[.net] projects\___Final\Lab task\NewsPortal\DataAccess\bin\Debug\DataAccess.dll
+D:\[.net] projects\___Final\Lab task\NewsPortal\DataAccess\bin\Debug\DataAccess.pdb
+D:\[.net] projects\___Final\Lab task\NewsPortal\DataAccess\bin\Debug\EntityFramework.dll
+D:\[.net] projects\___Final\Lab task\NewsPortal\DataAccess\bin\Debug\EntityFramework.xml
+D:\[.net] projects\___Final\Lab task\NewsPortal\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+D:\[.net] projects\___Final\Lab task\NewsPortal\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+D:\[.net] projects\___Final\Lab task\NewsPortal\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+D:\[.net] projects\___Final\Lab task\NewsPortal\DataAccess\obj\Debug\DataAccess.dll
+D:\[.net] projects\___Final\Lab task\NewsPortal\DataAccess\obj\Debug\DataAccess.pdb

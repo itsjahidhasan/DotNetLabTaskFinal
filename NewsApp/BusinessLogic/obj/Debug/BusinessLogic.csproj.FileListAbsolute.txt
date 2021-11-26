@@ -1,0 +1,12 @@
+D:\[.net] projects\___Final\Lab task\NewsPortal\BusinessLogic\bin\Debug\BusinessLogic.dll
+D:\[.net] projects\___Final\Lab task\NewsPortal\BusinessLogic\bin\Debug\BusinessLogic.pdb
+D:\[.net] projects\___Final\Lab task\NewsPortal\BusinessLogic\bin\Debug\DataAccess.dll
+D:\[.net] projects\___Final\Lab task\NewsPortal\BusinessLogic\bin\Debug\EntityFramework.dll
+D:\[.net] projects\___Final\Lab task\NewsPortal\BusinessLogic\bin\Debug\DataAccess.pdb
+D:\[.net] projects\___Final\Lab task\NewsPortal\BusinessLogic\bin\Debug\DataAccess.dll.config
+D:\[.net] projects\___Final\Lab task\NewsPortal\BusinessLogic\bin\Debug\EntityFramework.xml
+D:\[.net] projects\___Final\Lab task\NewsPortal\BusinessLogic\obj\Debug\BusinessLogic.csprojAssemblyReference.cache
+D:\[.net] projects\___Final\Lab task\NewsPortal\BusinessLogic\obj\Debug\BusinessLogic.csproj.CoreCompileInputs.cache
+D:\[.net] projects\___Final\Lab task\NewsPortal\BusinessLogic\obj\Debug\BusinessLogic.csproj.CopyComplete
+D:\[.net] projects\___Final\Lab task\NewsPortal\BusinessLogic\obj\Debug\BusinessLogic.dll
+D:\[.net] projects\___Final\Lab task\NewsPortal\BusinessLogic\obj\Debug\BusinessLogic.pdb
